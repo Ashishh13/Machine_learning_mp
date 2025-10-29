@@ -5,3 +5,6 @@ streamlit
 joblib
 seaborn
 matplotlib
+xgboost
+fastapi
+pydnantic
