@@ -6,3 +6,6 @@ fastapi
 uvicorn[standard]
 streamlit
 pydantic
+joblib
+shap
+matplotlib
